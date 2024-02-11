@@ -1,0 +1,48 @@
+p{
+	color:blue;
+}
+#content{
+	color:darkgreen;
+	font-size: 50px;
+	font-family: sans-serif;
+}
+.text{
+	color:goldenrod;
+	font-size: 20px;
+	font-family: sans-serfi;
+
+}
+
+<h1{
+text-align:center;
+			color:darkgoldenrod;
+			text-decoration: underline;
+			font-family: 'Oswald', sans-serif;
+			}
+			
+			.box{
+			
+			     width:1000px;
+				 height:200px;
+				 color:red;
+				 font-family:'Poppins', sans-serif;
+				 font-size:18px;
+				 line-height:25px;
+				 text-align:justyfy;
+				 word-spacing:5px;
+				 }
+				 
+			.box1{
+			
+			    width:1000px;
+				 height:200px;
+				 color:orange;
+				 font-family:'Poppins', sans-serif;
+				 font-size:18px;
+				 line-height:25px;
+				 text-align:justify;
+				 }
+				 
+				 
+				 
+				 
